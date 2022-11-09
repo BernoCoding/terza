@@ -1,3 +1,8 @@
+/*
+    Questo programma chiede in input una data ben formattata e calcola quanti giorni è
+    distante dall'anno 0.
+*/
+
 #include <stdio.h>
 
 void main()
